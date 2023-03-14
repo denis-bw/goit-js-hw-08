@@ -20,3 +20,4 @@ galleryRef.innerHTML = galleryImg;
 new SimpleLightbox('.gallery a', {
     captionDelay: 250,
 })
+
